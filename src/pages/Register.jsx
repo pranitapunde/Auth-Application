@@ -37,7 +37,6 @@ const Register = () => {
         if (password !== password2) {
             toast.error("password not match")
         }
-
         dispatch(registerUser(formData))
     }
 
