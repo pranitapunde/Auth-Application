@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+/* login-section */
+
+.loginpage,
+.Registerpage{
+    height: 90vh;
+    /* background-color: rgb(216, 240, 239); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loginBOx,.RegisterBox{
+    width: 30%;
+    height: 80%;
+    /* background-color: white; */
+    
+}
+.Headline-from-Longin{
+    height: 70px;
+}
+form{
+    padding-inline: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .loading-part{
+    height: 90vh;
+  }
+  
+
+/* Register-section */
+
