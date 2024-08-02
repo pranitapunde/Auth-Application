@@ -53,7 +53,7 @@ const Login = () => {
     }
     return (
         <div className='loginpage w-100'>
-            <div className='loginBOx shadow-lg border'>
+            <div className='loginBOx shadow-lg '>
                 <div className='Headline-from-Longin d-flex align-items-center justify-content-center' >
                     <h5 className='fw-bold text-primary'>Login Form</h5>
                 </div>

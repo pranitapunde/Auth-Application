@@ -62,7 +62,7 @@ const Register = () => {
 
     return (
         <div className='Registerpage w-100'>
-            <div className='RegisterBox shadow-lg border'>
+            <div className='RegisterBox shadow-lg'>
                 <div className='Headline-from-Longin d-flex align-items-center justify-content-center' >
                     <h5 className='fw-bold text-primary'>Register Form</h5>
                 </div>
